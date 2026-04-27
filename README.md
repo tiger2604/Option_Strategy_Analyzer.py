@@ -25,4 +25,5 @@ A Python-based tool to analyze option trading strategies and visualize payoff di
 3. Run the script
 
 ```bash
-python option_strategy_analyzer.py
+python Option_Payoff_Calculator_02.ipynb
+
